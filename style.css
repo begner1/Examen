@@ -1,0 +1,244 @@
+body{
+    background-color: #1b135d;
+}
+.principal{
+    width: 1728px;
+    height: 1999px;
+    border-radius: 20px;
+    background: #172d72;
+    position: absolute;
+    
+
+}
+.principal2{
+    display: flex;
+    padding: 0px 2px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.imgprincipal{
+    width: 124px;
+    height: 124px;
+    flex-shrink: 0;
+    
+    fill: #0C151D;
+    stroke-width: 4px;
+    stroke: #FFE071;
+}
+.titulo{
+    width: 372px;
+    color: green;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: green;
+}
+.titulo2{
+    color: #A3ABB2;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 372px;
+}
+.principal3{
+    width: 372px;
+    height: 113px;
+}
+.principal4{
+    width: 372px;
+    height: 156px;
+    flex-shrink: 0;
+    
+}
+.githup{
+    width: 36px;
+    height: 36px;
+}
+.twitter{
+    width: 36px;
+    height: 36px;
+}
+.linkedin{
+    width: 36px;
+    height: 36px;
+}
+.youtube{
+    width: 36px;
+    height: 36px;
+}
+.contenedor1{
+    text-align: center;
+    
+    display: flex;
+    width: 375px;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.uno{
+    display: flex;
+width: 103px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
+.dos{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.tres{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.siete{
+    color: #C3C7CB;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.texto{
+    width: 102px;
+    color: #A3ABB2;
+text-align: center;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.sincuenta{
+    color: #C3C7CB;
+
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.texto2{
+    color: #A3ABB2;
+
+text-align: center;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.texto3{
+    color: #A3ABB2;
+text-align: center;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.veinte{
+    color: #C3C7CB;
+
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.contenedor3{
+    display: flex;
+width: 375px;
+padding: 18px 20px;
+justify-content: center;
+align-items: center;
+gap: 14px;
+}
+.boton1{
+    width: 158px;
+height: 44px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #FFE071;
+}
+.boton2{
+    width: 158px;
+height: 44px;
+flex-shrink: 0;
+border-radius: 10px;
+border: 0px solid #3E64AA;
+background: #171F26;
+
+}
+.contenedor4{
+    display: flex;
+width: 375px;
+padding: 10px 20px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 10px;
+}
+.boton41{
+    width: 154px;
+    height: 50.303px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 0px solid #3E64AA;
+    background: #0C151D;
+}
+boton42{
+    width: 154px;
+    height: 50.303px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 0px solid #3E64AA;
+
+    background: #171F26;
+}
+.div1{
+    width: 340px;
+height: 210px;
+flex-shrink: 0;
+border-radius: 15px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.div2{
+    width: 340px;
+height: 210px;
+flex-shrink: 0;
+border-radius: 15px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url(<path-to-image>), lightgray 0% 0% / 21.36824280023575px 21.36824280023575px repeat;
+backdrop-filter: blur(2px);
+
+}
+.div3{
+    width: 340px;
+height: 210px;
+flex-shrink: 0;
+border-radius: 15px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+backdrop-filter: blur(2px);
+
+}
+.div4{
+    width: 340px;
+height: 210px;
+flex-shrink: 0;
+border-radius: 15px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+backdrop-filter: blur(2px);
+
+}
